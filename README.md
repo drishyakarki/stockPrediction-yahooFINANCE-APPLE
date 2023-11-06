@@ -10,3 +10,11 @@ For your ease the dataset can be found in the data folder. There are the csv fil
 - Netflix
 _____
 *I have implemented a basic RNN on the stock of apple only but preprocessed the data, performed feature engineering for all the five datas. You can try with other dataset yourself.*
+
+## Following are the some of the plots
+
+Stock and Volume of Apple
+()
+
+Stock Prices of Apple
+()
