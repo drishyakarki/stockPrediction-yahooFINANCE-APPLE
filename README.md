@@ -14,7 +14,7 @@ _____
 ## Following are the some of the plots
 
 **Stock and Volume of Apple**
-([data/apple.png](https://github.com/drishyakarki/stockPrediction-yahooFINANCE-APPLE/blob/main/data/apple.png)https://github.com/drishyakarki/stockPrediction-yahooFINANCE-APPLE/blob/main/data/apple.png)
+![](data/apple.png)
 
 **Stock Prices of Apple**
-(data/apple2.png)
+![stock](/data/apple2.png)
