@@ -17,4 +17,4 @@ _____
 ([data/apple.png](https://github.com/drishyakarki/stockPrediction-yahooFINANCE-APPLE/blob/main/data/apple.png)https://github.com/drishyakarki/stockPrediction-yahooFINANCE-APPLE/blob/main/data/apple.png)
 
 **Stock Prices of Apple**
-([data/apple2.png])
+(data/apple2.png)
