@@ -13,8 +13,8 @@ _____
 
 ## Following are the some of the plots
 
-Stock and Volume of Apple
-()
+**Stock and Volume of Apple**
+(data/apple.png)
 
-Stock Prices of Apple
-()
+**Stock Prices of Apple**
+(data/apple2.png)
